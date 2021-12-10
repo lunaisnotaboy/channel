@@ -2,3 +2,5 @@
 
 # Libraries
 #= require rails-ujs
+
+window.Channel ?= {}
